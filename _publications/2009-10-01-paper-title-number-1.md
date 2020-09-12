@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Image-Based Arabic Sign Language Recognition System"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: ''
+date: 2018-04-01
+venue: 'the International Journal of Advanced Computer Science and Applications'
+paperurl: '<br><br> https://thesai.org/Downloads/Volume9No3/Paper_27-Image_based_Arabic_Sign_Language.pdf'
+citation: 'R. Alzohairi, <b>R. Alghonaim</b>, S. Aloqeely, W. Alshehri, M. Alzaidan,
+and O. Bchir, “Image-Based Arabic Sign Language Recognition System,” International Journal of Advanced Computer Science and Applications, vol. 9, no. 3, Apr. 2018'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
