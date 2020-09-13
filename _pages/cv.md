@@ -16,24 +16,22 @@ Education
 
 Work experience
 ======
-* May/2017-Sept/2019: Data Scientist, Mozn. Riyadh, SA.
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Scientist, Mozn. (May/2017-Sept/2019)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Teaching Assistant, Prince Sultan University. (Dec/2017-Aug/2019)
+
+* Summer Intern, KFSH&RC. (June/2016-July/2016)
+
 Skills
 ======
-* Programming Languages: Python, Java, C, C#
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Arabic (Mother Tongue), English (Fluent)
+* Programming languages: Python, Java, C, C#
+* Web development: SQL, PostgreSQL, REST API, Flask, HTML, CSS, Deck.gl, WordPress
+* Machine learning: PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
+* Software engineering: Agile software development (SCRUM),  JUnit, Python unittest, Git
+* 3D Simulation: Unity3D, CoppeliaSim (V-Rep)
+* Others: Web Scraping, Alteryx, Tableau
+
 
 Publications
 ======
