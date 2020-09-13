@@ -8,10 +8,5 @@ date: 2014-01-01
 location: "Riyadh, Saudi Arabia"
 ---
 
-Taught the following courses:
+Taught and assisted different courses, including Java programming, Operating Systems, Software Testing, 3D Modelling and Design, and Game Developement. 
 
-1. Computer Programming 1 & 2 (Java)
-2. Software Testing
-3. Operating Systems
-4. 3D Modelling and Design
-5. Game Developement and Design 
