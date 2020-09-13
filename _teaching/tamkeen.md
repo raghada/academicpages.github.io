@@ -4,7 +4,7 @@ collection: teaching
 type: "Community Service"
 permalink: /teaching/Tamkeen
 venue: "Tamkeen Summer School, Saudi Data Community"
-date:
+date: 2019-01-01
 location: "Riyadh and Khubar, Saudi Arabia"
 ---
 

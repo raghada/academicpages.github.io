@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PSU
 venue: "Prince Sultan University, Department of Computer Science"
-date: 
+date:  2018-01-01
 location: "Riyadh, Saudi Arabia"
 ---
 
