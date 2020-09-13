@@ -53,13 +53,13 @@ Fellowships/Scholarships
 
 Skills
 ======
-* Languages: Arabic (Mother Tongue), English (Fluent)
-* Programming languages: Python, Java, C, C#
-* Machine learning: PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
-* Data analysis and visualisation: Alteryx, Tableau, Deck.gl
-* 3D Simulation: Unity3D, CoppeliaSim (V-Rep)
-* Web development: SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
-* Software engineering: Agile software development (SCRUM),  JUnit, Python unittest, Git
+* <b>Languages:</b> Arabic (Mother Tongue), English (Fluent)
+* <b>Programming languages:</b> Python, Java, C, C#
+* <b>Machine learning:</b> PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
+* <b>Data analysis and visualisation:</b> Alteryx, Tableau, Deck.gl
+* <b>3D Simulation:</b> Unity3D, CoppeliaSim (V-Rep)
+* <b>Web development:</b> SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
+* <b>Software engineering:</b> Agile software development (SCRUM),  JUnit, Python unittest, Git
 
 
 Publications
