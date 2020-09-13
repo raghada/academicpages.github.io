@@ -10,7 +10,9 @@ Source brain images:<br>
 <img src="/images/brain_grey.png">
 <br>
 Segmented brain:<br>
-<img src="brain_segmented.png">
+<img src="/images/brain_segmented.png">
+Best model results:
+<img src="/images/best_model_mri.png">
 
 
 
