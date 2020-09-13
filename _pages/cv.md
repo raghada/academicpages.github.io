@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b> MSc in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected) </b>
+* <b> MSc in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 <font size="-1">(Expected)</font> </b>
   * Thesis:
     * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of Dr Edward Johns
   * Courses:
@@ -38,12 +38,12 @@ Education
 Work experience
 ======
 * <b>Data Scientist</b>, Mozn.  <font size="-1">(May/2017-Sept/2019)</font>
-* <b>Teaching Assistant</b>, Prince Sultan University. (Dec/2017-Aug/2019)
-* <b>Summer Intern</b>, KFSH&RC. (June/2016-July/2016)
+* <b>Teaching Assistant</b>, Prince Sultan University. <font size="-1">(Dec/2017-Aug/2019)</font>
+* <b>Summer Intern</b>, KFSH&RC. <font size="-1">(June/2016-July/2016)</font>
 
 Skills
 ======
-* <b>Languages:</b> Arabic (Mother Tongue), English (Fluent)
+* <b>Languages:</b> Arabic <font size="-1">(Mother Tongue)</font>, English <font size="-1">(Fluent)</font>
 * <b>Programming languages:</b> Python, Java, C, C#
 * <b>Machine learning:</b> PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
 * <b>Data analysis and visualisation:</b> Alteryx, Tableau, Deck.gl
@@ -54,11 +54,11 @@ Skills
 
 Fellowships/Scholarships
 ======
-* <b> QIMAM FELLOWSHIP, Fellow. (April/2020-Present) </b>
+* <b> QIMAM FELLOWSHIP, Fellow. <font size="-1">(April/2020-Present)</font> </b>
   * A fellowship awarded by McKinsey and Company in collaboration with leading national and international companies to Saudi potential leaders. The 2020 cohort received 17,000 applicants, and only 50 were admitted to the fellowship
-* <b> MISK FELLOWSHIP, Graduate Fellow. (Aug/2019-Present) </b>
+* <b> MISK FELLOWSHIP, Graduate Fellow. <font size="-1">(Aug/2019-Present)</font> </b>
   * Awarded by one of the leading organisations in Saudi Arabia to students with high leadership potential to solve Saudi’s greatest challenges
-* <b> ELITE SCHOLARSHIP, Receiver. (July/2019-Present) </b>
+* <b> ELITE SCHOLARSHIP, Receiver. <font size="-1">(July/2019-Present)</font> </b>
   * Awarded by the Ministry of Education in Saudi Arabia to students who have acceptance in one of the world top 20 universities
 
 
