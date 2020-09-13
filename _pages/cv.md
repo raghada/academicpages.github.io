@@ -76,9 +76,6 @@ Teaching
   
 Honours And Awards
 ======
-* Qimam Fellowship, McKinsey \& Company, Saudi Arabia.
-* Elite Scholarship, Ministry of Education, Saudi Arabia.
-* Misk Postgraduate Fellowship, Misk Foundation, Saudi Arabia.
 * First Place in the Annual Project Fair (CCIS Project Fair), King Saud University.
 * Ideal Student Award, College of Computer Science, King Saud University.
 * Dean Award for Academic Excellence for two consecutive years,  King Saud University.
@@ -86,7 +83,6 @@ Honours And Awards
 * First Place and Gold Award in the ACM National Programming Jam 3.0. 
 * Third Place in the CCIS First Programming Competition,  King Saud University.
 * Winner of the First IBM BLUEMIX Hackathon in Saudi Arabia,  King Saud University.
-
 
 Extra-Curricular
 ======
