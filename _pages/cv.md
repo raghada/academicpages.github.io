@@ -12,6 +12,16 @@ redirect_from:
 Education
 ======
 * M.S. in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected)
+  * Courses:
+    * Mathematics for Machine Learning
+    * Reinforcement Learning
+    * Machine Learning for Imaging
+    * Deep Learning
+    * Introduction to Machine Learning
+    * Operations Research
+    * Computer Vision
+    * Natural Language Processing
+    * Independent Study Option: Image-Based Robot Learning for Manipulation, under the supervision of Dr Edward Johns
 * B.S. in Computer Science, King Saud University, Ranked First, 2017
 
 Work experience
