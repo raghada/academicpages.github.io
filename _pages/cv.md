@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected)
+* <b> M.S. in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected) </b>
   * Thesis:
     * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of Dr Edward Johns
   * Courses:
@@ -24,7 +24,7 @@ Education
     * Computer Vision
     * Natural Language Processing
     * Independent Study Option: Image-Based Robot Learning for Manipulation, under the supervision of Dr Edward Johns
-* B.S. in Computer Science, King Saud University, Ranked First, 2017
+* <b> B.S. in Computer Science, King Saud University, Ranked First, 2017 </b>
   * Dessertation:
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
   * Courses:
@@ -34,6 +34,7 @@ Education
     * Artificial Intelligence, Data Mining, Image Processing, and Machine Learning
     * Computer Security, Computer Organization, and Computer Networks
     * Theory of Computation
+
 Work experience
 ======
 * Data Scientist, Mozn. (May/2017-Sept/2019)
