@@ -11,3 +11,5 @@ In this work, I surveyed the different ways robot learning can be conducted. I f
   <source src="/images/videos/robot_grasping.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
+
+<b> The target object is the red sphere, while the other two are random distractors</b> <br>
