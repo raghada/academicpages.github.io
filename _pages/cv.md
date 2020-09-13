@@ -83,12 +83,3 @@ Honours And Awards
 * First Place and Gold Award in the ACM National Programming Jam 3.0. 
 * Third Place in the CCIS First Programming Competition,  King Saud University.
 * Winner of the First IBM BLUEMIX Hackathon in Saudi Arabia,  King Saud University.
-
-Extra-Curricular
-======
-* Co-Founder and Trainer, Tamkeen School, Saudi Data Community
-* Member, Saudi Data Community
-* Co-founder and Leader, peer monitoring program, King Saud University
-* Speaker, Cella Network for Women Empowerment
-* Presenter, Awalem Summer School, King Saud University
-* Member, Student Advisory Council, King Saud University
