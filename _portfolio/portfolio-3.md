@@ -16,4 +16,4 @@ The aim of the project is to exploit Natural Language Processing techniques to f
 
 
 <b> The histogram of the distributions of both trained and real scores</b> <br>
-<p style="text-align:center;"><img src="/images/dist.png"></p> <br>
+<img src="/images/dist.png"> <br>
