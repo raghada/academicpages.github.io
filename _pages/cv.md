@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * M.S. in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected)
+  * Thesis:
+    * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of Dr Edward Johns
   * Courses:
     * Mathematics for Machine Learning
     * Reinforcement Learning
