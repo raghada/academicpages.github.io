@@ -13,3 +13,8 @@ A goal-oriented and motivated high achiever who is passionate about data, consul
 Area of Expertise 
 ======
 Machine Learning, Deep Learning, Computer Vision, 3D Simulation, Robot Learning
+
+
+Reach Out!
+======
+Feel free to hit me up at raghadlghonaim AT gmail DOT com for any question/suggestion/possible work collaboration
