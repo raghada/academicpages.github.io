@@ -17,4 +17,4 @@ Machine Learning, Deep Learning, Computer Vision, 3D Simulation, Robot Learning
 
 Reach Out!
 ======
-Feel free to hit me up at <b>raghadlghonaim AT gmail DOT com</b> for any question, suggestion, or possible work collaboration
+Feel free to hit me up at <b>raghadlghonaim AT gmail DOT com</b> for questions, suggestion, or possible work collaboration
