@@ -9,7 +9,7 @@ In this work, I surveyed the different ways robot learning can be conducted. I f
 <b> Illusterative video:</b> <br>
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/_5z3S4Rd6HQ">
+src="https://www.youtube.com/embed/_5z3S4Rd6HQ?autoplay=1&mute=1">
 </iframe>
 
 
