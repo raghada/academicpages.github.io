@@ -38,9 +38,7 @@ Education
 Work experience
 ======
 * Data Scientist, Mozn. (May/2017-Sept/2019)
-
 * Teaching Assistant, Prince Sultan University. (Dec/2017-Aug/2019)
-
 * Summer Intern, KFSH&RC. (June/2016-July/2016)
 
 Skills
