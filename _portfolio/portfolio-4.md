@@ -6,8 +6,10 @@ collection: portfolio
 
 Implemented a deep Q network using PyTorch to train an agent that is capable of tackling any random maze with a set of unknown obstacles and unknown goal locations.
 
-Illusterative video: <br>
+<b> Illusterative video:</b> <br>
 
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/-i2VY3r3QEE?autoplay=1&mute=1">
+</iframe>
 
 The flashing yellow line represents the optimal path found so far, the agent has no clue about the environment before. After some trials, the agent was able to reach the goal and continues to choose its path.
-<b>Disclaimer: the video is a bit long</b> <br>
