@@ -25,7 +25,15 @@ Education
     * Natural Language Processing
     * Independent Study Option: Image-Based Robot Learning for Manipulation, under the supervision of Dr Edward Johns
 * B.S. in Computer Science, King Saud University, Ranked First, 2017
-
+  * Dessertation:
+    * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
+  * Courses:
+    * General Physics, Linear Algebra, Calculs, Statistics, and Discrete Math
+    * Java Programming 1 & 2, C Programming, Data Sturctures, Algorithms Design
+    * Fundamentals of Database Systems, Compilers, and Operating Systems
+    * Artificial Intelligence, Data Mining, Image Processing, and Machine Learning
+    * Computer Security
+    * Theory of Computation
 Work experience
 ======
 * Data Scientist, Mozn. (May/2017-Sept/2019)
