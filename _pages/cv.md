@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 (Expected)
+* B.S. in Computer Science, King Saud University, Ranked First, 2017
 
 Work experience
 ======
