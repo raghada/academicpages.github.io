@@ -45,6 +45,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honours And Awards
 ======
-* Currently signed in to 43 different slack teams
+* Qimam Fellowship, McKinsey \& Company, Saudi Arabia.
+* Elite Scholarship, Ministry of Education, Saudi Arabia.
+* Misk Postgraduate Fellowship, Misk Foundation, Saudi Arabia.
+* First Place in the Annual Project Fair (CCIS Project Fair), King Saud University.
+* Ideal Student Award, College of Computer Science, King Saud University.
+* Dean Award for Academic Excellence for two consecutive years,  King Saud University.
+* Best Poster Award, Honorable Mention, The Ninth Annual Undergraduate Research Conference on Applied Computing (URC 2017), Dubai, UAE.
+* First Place and Gold Award in the ACM National Programming Jam 3.0. 
+* Third Place in the CCIS First Programming Competition,  King Saud University.
+* Winner of the First IBM BLUEMIX Hackathon in Saudi Arabia,  King Saud University.
+
+
+Extra-Curricular
+======
+* Co-Founder and Trainer, Tamkeen School, Saudi Data Community
+* Member, Saudi Data Community
+* Co-founder and Leader, peer monitoring program, King Saud University
+* Speaker, Cella Network for Women Empowerment
+* Presenter, Awalem Summer School, King Saud University
+* Member, Student Advisory Council, King Saud University
