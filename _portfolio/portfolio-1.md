@@ -6,12 +6,12 @@ collection: portfolio
 
 Predicting brain age given MRI brain data and comparing it to the chronological age of the patient is useful for detecting neurodegeneration and preventing cognitive decline. Using data from 652 healthy subjects we implemented three methods for age regression. The first approach uses the ratios of overall brain volume and the volumes of different brain tissues such as grey matter (GM), white matter (WM) and cerebrospinal fluid (CSF). The next two approaches use grey matter maps for PCA-based regression and CNN-based regression, respectively. The final testing shows that the CNN-based model performs better than the other considered models. <br>
 
-Source brain images:<br>
+<b> Source brain input images:</b> <br>
 <img src="/images/brain_grey.png">
 <br>
-Segmented brain:<br>
+<b>Segmented brain:</b><br>
 <img src="/images/brain_segmented.png"><br>
-Best model results:<br>
+<b>Best model results:</b><br>
 <img src="/images/best_model_mri.png">
 
 
