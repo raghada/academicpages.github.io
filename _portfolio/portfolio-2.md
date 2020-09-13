@@ -8,6 +8,6 @@ In this work, I surveyed the different ways robot learning can be conducted. I f
 
 
 <video width="320" height="240" autoplay>
-  <source src="/images/videos/robot_grasping.mp4" type="video/mp4">
+  <source src="/images/videos/robot_grasping.webm" type="video/webm">
 Your browser does not support the video tag.
 </video>
