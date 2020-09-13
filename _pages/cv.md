@@ -28,11 +28,11 @@ Education
   * Dessertation:
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
   * Courses:
-    * General Physics, Linear Algebra, Calculs, Statistics, and Discrete Math
+    * General Physics, Linear Algebra, Calculs 1 & 2, Statistics, and Discrete Math
     * Java Programming 1 & 2, C Programming, Data Sturctures, Algorithms Design
     * Fundamentals of Database Systems, Compilers, and Operating Systems
     * Artificial Intelligence, Data Mining, Image Processing, and Machine Learning
-    * Computer Security
+    * Computer Security, Computer Organization, and Computer Networks
     * Theory of Computation
 Work experience
 ======
