@@ -41,16 +41,6 @@ Work experience
 * Teaching Assistant, Prince Sultan University. (Dec/2017-Aug/2019)
 * Summer Intern, KFSH&RC. (June/2016-July/2016)
 
-
-Fellowships/Scholarships
-======
-* <b> QIMAM FELLOWSHIP, Fellow. (April/2020-Present) </b>
-  * A fellowship awarded by McKinsey and Company in collaboration with leading national and international companies to Saudi potential leaders. The 2020 cohort received 17,000 applicants, and only 50 were admitted to the fellowship
-* <b> MISK FELLOWSHIP, Graduate Fellow. (Aug/2019-Present) </b>
-  * Awarded by one of the leading organisations in Saudi Arabia to students with high leadership potential to solve Saudi’s greatest challenges
-* <b> ELITE SCHOLARSHIP, Receiver. (July/2019-Present) </b>
-  * Awarded by the Ministry of Education in Saudi Arabia to students who have acceptance in one of the world top 20 universities
-
 Skills
 ======
 * <b>Languages:</b> Arabic (Mother Tongue), English (Fluent)
@@ -60,6 +50,16 @@ Skills
 * <b>3D Simulation:</b> Unity3D, CoppeliaSim (V-Rep)
 * <b>Web development:</b> SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
 * <b>Software engineering:</b> Agile software development (SCRUM),  JUnit, Python unittest, Git
+
+
+Fellowships/Scholarships
+======
+* <b> QIMAM FELLOWSHIP, Fellow. (April/2020-Present) </b>
+  * A fellowship awarded by McKinsey and Company in collaboration with leading national and international companies to Saudi potential leaders. The 2020 cohort received 17,000 applicants, and only 50 were admitted to the fellowship
+* <b> MISK FELLOWSHIP, Graduate Fellow. (Aug/2019-Present) </b>
+  * Awarded by one of the leading organisations in Saudi Arabia to students with high leadership potential to solve Saudi’s greatest challenges
+* <b> ELITE SCHOLARSHIP, Receiver. (July/2019-Present) </b>
+  * Awarded by the Ministry of Education in Saudi Arabia to students who have acceptance in one of the world top 20 universities
 
 
 Publications
