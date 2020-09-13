@@ -68,12 +68,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Honours And Awards
 ======
 * First Place in the Annual Project Fair (CCIS Project Fair), King Saud University.
