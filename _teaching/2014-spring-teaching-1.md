@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/PSU
 venue: "Prince Sultan University, Department of Computer Science"
-date: 2014-01-01
+date: 
 location: "Riyadh, Saudi Arabia"
 ---
 

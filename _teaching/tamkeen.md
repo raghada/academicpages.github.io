@@ -1,10 +1,10 @@
 ---
-title: "Tutor"
+title: "Co-Founder and Tutor"
 collection: teaching
 type: "Community Service"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Tamkeen
 venue: "Tamkeen Summer School, Saudi Data Community"
-date: 2014-01-01
+date:
 location: "Riyadh and Khubar, Saudi Arabia"
 ---
 
