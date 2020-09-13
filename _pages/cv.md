@@ -26,11 +26,11 @@ Skills
 ======
 * Languages: Arabic (Mother Tongue), English (Fluent)
 * Programming languages: Python, Java, C, C#
-* Web development: SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
 * Machine learning: PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
 * Data analysis and visualisation: Alteryx, Tableau, Deck.gl
-* Software engineering: Agile software development (SCRUM),  JUnit, Python unittest, Git
 * 3D Simulation: Unity3D, CoppeliaSim (V-Rep)
+* Web development: SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
+* Software engineering: Agile software development (SCRUM),  JUnit, Python unittest, Git
 
 
 Publications
