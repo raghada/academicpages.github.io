@@ -29,7 +29,7 @@ Education
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
   * <b>Courses:</b>
     * General Physics, Linear Algebra, Calculs 1 & 2, Statistics, and Discrete Math
-    * Java Programming 1 & 2, C Programming, Data Sturctures, Algorithms Design
+    * Java Programming 1 & 2, C Programming, Data Sturctures, and Algorithms Design
     * Fundamentals of Database Systems, Compilers, and Operating Systems
     * Artificial Intelligence, Data Mining, Image Processing, and Machine Learning
     * Computer Security, Computer Organization, and Computer Networks
@@ -45,8 +45,8 @@ Skills
 ======
 * <b>Languages:</b> Arabic <font size="-1">(Mother Tongue)</font>, English <font size="-1">(Fluent)</font>
 * <b>Programming languages:</b> Python, Java, C, C#
-* <b>Machine learning:</b> PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, NumPy, Pandas, CUDA
-* <b>Data analysis and visualisation:</b> Alteryx, Tableau, Deck.gl
+* <b>Machine learning:</b> PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, CUDA
+* <b>Data analysis and visualisation:</b> NumPy, Pandas, Plotly, Matplotlib, Seaborn, Alteryx, Tableau, Deck.gl
 * <b>3D Simulation:</b> Unity3D, CoppeliaSim (V-Rep)
 * <b>Web development:</b> SQL, PostgreSQL, REST API, Flask, HTML, CSS, WordPress
 * <b>Software engineering:</b> Agile software development (SCRUM),  JUnit, Python unittest, Git
