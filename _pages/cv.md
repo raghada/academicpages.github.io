@@ -54,11 +54,11 @@ Skills
 
 Fellowships/Scholarships
 ======
-* <b> QIMAM FELLOWSHIP, Fellow. <font size="-1">(April/2020-Present)</font> </b>
+* <b> QIMAM FELLOWSHIP, Fellow.</b> <font size="-1">(April/2020-Present)</font> 
   * A fellowship awarded by McKinsey and Company in collaboration with leading national and international companies to Saudi potential leaders. The 2020 cohort received 17,000 applicants, and only 50 were admitted to the fellowship
-* <b> MISK FELLOWSHIP, Graduate Fellow. <font size="-1">(Aug/2019-Present)</font> </b>
+* <b> MISK FELLOWSHIP, Graduate Fellow. </b><font size="-1">(Aug/2019-Present)</font> 
   * Awarded by one of the leading organisations in Saudi Arabia to students with high leadership potential to solve Saudi’s greatest challenges
-* <b> ELITE SCHOLARSHIP, Receiver. <font size="-1">(July/2019-Present)</font> </b>
+* <b> ELITE SCHOLARSHIP, Receiver.</b> <font size="-1">(July/2019-Present)</font> 
   * Awarded by the Ministry of Education in Saudi Arabia to students who have acceptance in one of the world top 20 universities
 
 
