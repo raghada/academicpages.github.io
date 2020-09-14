@@ -24,7 +24,7 @@ Education
     * Computer Vision
     * Natural Language Processing
     * Independent Study Option: "Image-Based Robot Learning for Manipulation"
-* <b> BSc in Computer Science, King Saud University, Ranked First, 2017 </b>
+* <b> BSc in Computer Science, [King Saud University](https://ksu.edu.sa/en/), Ranked First, 2017 </b>
   * <b>Dissertation:</b>
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
   * <b>Courses:</b>
