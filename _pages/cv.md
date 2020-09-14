@@ -37,9 +37,9 @@ Education
 
 Work experience
 ======
-* <b>Data Scientist</b>, Mozn.  <font size="-1">(May/2017-Sept/2019)</font>
-* <b>Teaching Assistant</b>, Prince Sultan University. <font size="-1">(Dec/2017-Aug/2019)</font>
-* <b>Summer Intern</b>, KFSH&RC. <font size="-1">(June/2016-July/2016)</font>
+* <b>Data Scientist</b>, [Mozn](https://mozn.sa/).  <font size="-1">(May/2017-Sept/2019)</font>
+* <b>Teaching Assistant</b>, [Prince Sultan University](https://www.psu.edu.sa/). <font size="-1">(Dec/2017-Aug/2019)</font>
+* <b>Summer Intern</b>, [KFSH&RC](https://www.kfshrc.edu.sa/en/). <font size="-1">(June/2016-July/2016)</font>
 
 Skills
 ======
