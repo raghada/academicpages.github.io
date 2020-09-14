@@ -35,13 +35,13 @@ Education
     * Computer Security, Computer Organization, and Computer Networks
     * Theory of Computation
 
-<br><br>Work experience
+<br>Work experience
 ======
 * <b>Data Scientist</b>, [Mozn](https://mozn.sa/).  <font size="-1">(May/2017-Sept/2019)</font>
 * <b>Teaching Assistant</b>, [Prince Sultan University](https://www.psu.edu.sa/). <font size="-1">(Dec/2017-Aug/2019)</font>
 * <b>Summer Intern</b>, [KFSH&RC](https://www.kfshrc.edu.sa/en/). <font size="-1">(June/2016-July/2016)</font>
 
-<br><br>Skills
+<br>Skills
 ======
 * <b>Languages:</b> Arabic <font size="-1">(Mother Tongue)</font>, English <font size="-1">(Fluent)</font>
 * <b>Programming languages:</b> Python, Java, C, C#
@@ -52,7 +52,7 @@ Education
 * <b>Software engineering:</b> Agile software development (SCRUM),  JUnit, Python unittest, Git
 
 
-<br><br>Fellowships/Scholarships
+<br>Fellowships/Scholarships
 ======
 * <b> QIMAM FELLOWSHIP, Fellow.</b> <font size="-1">(April/2020-Present)</font> 
   * A fellowship awarded by McKinsey and Company in collaboration with leading national and international companies to Saudi potential leaders. The 2020 cohort received 17,000 applicants, and only 50 were admitted to the fellowship
@@ -62,13 +62,13 @@ Education
   * Awarded by the Ministry of Education in Saudi Arabia to students who have acceptance in one of the world top 20 universities
 
 
-<br><br>Publications
+<br>Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<br><br>Honours And Awards
+<br>Honours And Awards
 ======
 * First Place in the Annual Project Fair (CCIS Project Fair), King Saud University.
 * Ideal Student Award, College of Computer Science, King Saud University.
