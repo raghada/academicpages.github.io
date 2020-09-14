@@ -13,7 +13,7 @@ Education
 ======
 * <b> MSc in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 </b> <font size="-1">(Expected)</font>
   * <b>Thesis:</b>
-    * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of Dr Edward Johns
+    * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of [Dr Edward Johns](https://www.imperial.ac.uk/people/e.johns)
   * <b>Courses:</b>
     * Mathematics for Machine Learning
     * Reinforcement Learning
@@ -23,7 +23,7 @@ Education
     * Operations Research
     * Computer Vision
     * Natural Language Processing
-    * Independent Study Option: Image-Based Robot Learning for Manipulation, under the supervision of Dr Edward Johns
+    * Independent Study Option: "Image-Based Robot Learning for Manipulation"
 * <b> BSc in Computer Science, King Saud University, Ranked First, 2017 </b>
   * <b>Dissertation:</b>
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
