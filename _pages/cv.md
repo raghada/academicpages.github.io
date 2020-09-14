@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Resume<br><br>"
 permalink: /resume/
 author_profile: true
 redirect_from:
