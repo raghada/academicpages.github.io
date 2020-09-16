@@ -10,6 +10,8 @@ redirect_from:
 
 A goal-oriented and motivated high achiever who is passionate about data, consulting, research, technology and education. Raghad is a Machine Learning Engineer with both academic and industry experiences, where her research interest focuses on the intersection between robotics, deep learning and computer vision. Raghad is a soon to be a graduate from [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), where she will gain her MSc in Computing specialising in Machine Learning and Artificial Intelligence.
 
+On her free time, you will probably find Raghad baking pizza 🍕 and cake 🍰.
+
 Area of Expertise 
 ======
 Machine Learning, Deep Learning, Computer Vision, 3D Simulation, Robot Learning
