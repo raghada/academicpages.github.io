@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <a href="https://drive.google.com/file/d/1JrMzOrVa2Bufak2O-MTsmhRN1wJra7Y1/view?usp=sharing" target="_top">[PDF Resume]</a>
+
 Education
 ======
 * <b> MSc in Computing (Artificial Intelligence and Machine Learning), [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), 2020 </b> <font size="-1">(Expected)</font>
