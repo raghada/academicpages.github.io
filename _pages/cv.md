@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1JrMzOrVa2Bufak2O-MTsmhRN1wJra7Y1/view?usp=sharing" target="_top">[PDF Resume]</a>
+<!-- <a href="https://drive.google.com/file/d/1JrMzOrVa2Bufak2O-MTsmhRN1wJra7Y1/view?usp=sharing" target="_top">[PDF Resume]</a> -->
 
 Education
 ======
@@ -30,8 +30,8 @@ Education
   * <b>Dissertation:</b>
     * "Image-Based Arabic Sign Language Recognition", under the supervision of Dr Ouiem Bchir
   * <b>Courses:</b>
-    * General Physics, Linear Algebra, Calculs 1 & 2, Statistics, and Discrete Math
-    * Java Programming 1 & 2, C Programming, Data Sturctures, and Algorithms Design
+    * General Physics, Linear Algebra, Calculus 1 & 2, Statistics, and Discrete Math
+    * Java Programming 1 & 2, C Programming, Data Structures, and Algorithms Design
     * Fundamentals of Database Systems, Compilers, and Operating Systems
     * Artificial Intelligence, Data Mining, Image Processing, and Machine Learning
     * Computer Security, Computer Organization, and Computer Networks
