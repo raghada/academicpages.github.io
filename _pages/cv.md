@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1JoNyPEOA-oCvh_6wXgZA-yYERzkkeKzS/view?usp=sharing" target="_top">[PDF Resume]</a>
+<a href="https://drive.google.com/file/d/1HMidFHxOUN3bIeDvOK5zusBM483HhqPv/view?usp=sharing" target="_top">[PDF Resume]</a>
 
 Education
 ======
-* <b> MSc in Computing (Artificial Intelligence and Machine Learning), [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), 2020 </b> <font size="-1">(Expected)</font>
+* <b> MSc in Computing (Artificial Intelligence and Machine Learning), [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), Distinction, 2020.
   * <b>Thesis:</b>
     * "On the Effect of Rendering and Randomisation for Visual Sim-to-Real Transfer", under the supervision of [Dr Edward Johns](https://www.imperial.ac.uk/people/e.johns)
   * <b>Courses:</b>
@@ -41,11 +41,11 @@ Education
 ======
 * <b>Data Scientist</b>, [Mozn](https://mozn.sa/).  <font size="-1">(May/2017-Sept/2019)</font>
 * <b>Teaching Assistant</b>, [Prince Sultan University](https://www.psu.edu.sa/). <font size="-1">(Dec/2017-Aug/2019)</font>
-* <b>Summer Intern</b>, [KFSH&RC](https://www.kfshrc.edu.sa/en/). <font size="-1">(June/2016-July/2016)</font>
+* <b>Data Analyst Intern</b>, [KFSH&RC](https://www.kfshrc.edu.sa/en/). <font size="-1">(June/2016-July/2016)</font>
 
 <br>Skills
 ======
-* <b>Languages:</b> Arabic <font size="-1">(Mother Tongue)</font>, English <font size="-1">(Fluent)</font>
+* <b>Languages:</b> Arabic <font size="-1">(native)</font>, English <font size="-1">(Fluent)</font>
 * <b>Programming languages:</b> Python, Java, C, C#
 * <b>Machine learning:</b> PyTorch, Keras, PySpark, Scipy, OpenCV, torchvision, CUDA
 * <b>Data analysis and visualisation:</b> NumPy, Pandas, Plotly, Matplotlib, Seaborn, Alteryx, Tableau, Deck.gl
