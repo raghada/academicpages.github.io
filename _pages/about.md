@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A goal-oriented and motivated high achiever who is passionate about data, research, technology and education. Raghad is a Machine Learning Engineer with both academic and industry experiences, where her research interest focuses on the intersection between robotics, deep learning and computer vision. Raghad is a soon to be a graduate from [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), where she will gain her MSc in Computing specialising in Machine Learning and Artificial Intelligence.
+A goal-oriented and motivated high achiever who is passionate about data, research, technology and education. Raghad is a Machine Learning Engineer with both academic and industry experiences, where her research interest focuses on the intersection between robotics, deep learning and computer vision. Raghad is a fresh MSc in Computing graduate from [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/pg/msc-specialist-degrees/aiml/), where she specialised in Machine Learning and Artificial Intelligence.
 
 In her free time, you can probably find Raghad in the kitchen baking a pizza 🍕 or decorating a cake 🍰.
 
