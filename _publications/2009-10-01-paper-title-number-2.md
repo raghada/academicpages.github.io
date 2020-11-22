@@ -3,8 +3,8 @@ title: "Benchmarking Domain Randomisation for Visual Sim-to-Real Transfer"
 collection: publications
 permalink: 
 excerpt: ''
-date: 2020-10-31
-venue: 'International Conference on Robotics and Automation (ICRA). IEEE, 2021. (UNDER-REVIEW)'
+date: 2021-03-31
+venue: 'International Conference on Robotics and Automation (ICRA), IEEE. (UNDER-REVIEW)'
 paperurl: 
 citation: '<b>Alghonaim R</b>, Johns E. Benchmarking Domain Randomisation for Visual Sim-to-Real Transfer. arXiv preprint arXiv:2011.07112. 2020 Nov 13.
 '
