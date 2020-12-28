@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://drive.google.com/file/d/1HMidFHxOUN3bIeDvOK5zusBM483HhqPv/view?usp=sharing" target="_top">[PDF Resume]</a>
+<a href="https://drive.google.com/file/d/1DrffVxBKq7WfVrny3EdSaAtO_kv5RPdo/view?usp=sharing" target="_top">[PDF Resume]</a>
 
 Education
 ======
